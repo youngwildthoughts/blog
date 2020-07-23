@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/blog/</id><title>少年狂思录</title><updated>2020-07-23T11:33:25.895120+08:06</updated><author><name>xiezy thomas</name><email>xiezy.thomas@foxmail.com</email></author><link href="/blog/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/youngwildthoughts/blog@gh-pages/logo.png</logo><subtitle>旅程本身即是奖赏!</subtitle><entry><id>/blog/archives/my-first-awesome-post/</id><title>我的第一篇文章</title><updated>2020-07-23T11:33:25.895486+00:00</updated><author><name>卓彦</name><email>xiezy.thomas@foxmail.com</email><uri>https://www.imalan.cn</uri></author><content>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！&lt;/p&gt;
-&lt;p&gt;&lt;figure style="flex: 92.88888888888889" &gt;&lt;img width="836" height="450" src="https://cdn.jsdelivr.net/gh/youngwildthoughts/blog@gh-pages/archives/assets/e0affbc80ccb2d596c87b520e37e7071.jpg" /&gt;&lt;figcaption&gt;幽灵公主剧照&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
-</content><link href="/blog/archives/my-first-awesome-post/" rel="alternate"/><published>2019-12-17T20:34:00+08:06</published></entry><entry><id>/blog/archives/📚为你准备的一份书单/</id><title>📚为你准备的一份书单</title><updated>2020-07-23T11:33:25.895456+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;大学的现状是一个明显的错误：两百个人阅读同一本书。
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><id>/blog/</id><title>少年狂思录</title><updated>2020-07-23T12:33:01.399524+08:06</updated><author><name>xiezy thomas</name><email>xiezy.thomas@foxmail.com</email></author><link href="/blog/" rel="alternate"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><logo>https://cdn.jsdelivr.net/gh/youngwildthoughts/blog@gh-pages/logo.png</logo><subtitle>旅程本身即是奖赏!</subtitle><entry><id>/blog/archives/📚为你准备的一份书单/</id><title>📚为你准备的一份书单</title><updated>2020-07-23T12:33:01.399937+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;大学的现状是一个明显的错误：两百个人阅读同一本书。
 两百个人，应该读两百本书。
 ——约翰·凯奇，自学成才的作家和作曲家&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -87,7 +85,7 @@
 &lt;p&gt;你发现了吗？在“读书”这个词语的双重意思下，我们很有可能把对学校的厌恶（如果你也不太喜欢学校的话）连带着转移到了阅读本身。
 书：“我多冤哪！”&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;嘿嘿，所以呀，别辜负了最适合阅读和成长的这明媚时光！&lt;/strong&gt;&lt;/p&gt;
-</content><link href="/blog/archives/📚为你准备的一份书单/" rel="alternate"/><published>2020-06-18T16:23:02+08:06</published></entry><entry><id>/blog/archives/📃我不想列计划/</id><title>📃我不想列计划</title><updated>2020-07-23T11:33:25.895427+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;他们看透了世界之平庸，但无力超越这平庸。他们无力成为“我”，又不屑于成为“他”。他们感到痛苦，但是真的，连这痛苦都很平庸。——刘瑜，政治学博士，剑桥大学讲师&lt;/p&gt;
+</content><link href="/blog/archives/📚为你准备的一份书单/" rel="alternate"/><published>2020-06-18T16:23:02+08:06</published></entry><entry><id>/blog/archives/📃我不想列计划/</id><title>📃我不想列计划</title><updated>2020-07-23T12:33:01.399906+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;他们看透了世界之平庸，但无力超越这平庸。他们无力成为“我”，又不屑于成为“他”。他们感到痛苦，但是真的，连这痛苦都很平庸。——刘瑜，政治学博士，剑桥大学讲师&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;🎶写计划&lt;/h2&gt;
 &lt;p&gt;对我来说，写计划是最痛苦的事情。&lt;/p&gt;
@@ -108,7 +106,7 @@
 &lt;hr&gt;
 &lt;ol&gt;&lt;/ol&gt;
 &lt;/div&gt;
-</content><link href="/blog/archives/📃我不想列计划/" rel="alternate"/><published>2020-07-15T15:03:39+08:06</published></entry><entry><id>/blog/archives/✍用笔或键盘，发现更好的自己/</id><title>✍用笔或键盘，发现更好的自己</title><updated>2020-07-23T11:33:25.895398+00:00</updated><content>&lt;p&gt;最近，我其实有很多焦虑、困扰和烦躁。当我们没有选择某一种方式将它们赶出我们的脑袋时，它们就会在脑子里嗡嗡作响、干扰我们的生活。写下来，不必怀有任何被语文老师评判的担忧和恐惧——&lt;strong&gt;文字是与自己的沟通，无论是平常发的朋友圈，还是一篇简单的日记，都是我们与自己的对话，平常、温暖、愉悦。&lt;/strong&gt;&lt;/p&gt;
+</content><link href="/blog/archives/📃我不想列计划/" rel="alternate"/><published>2020-07-15T15:03:39+08:06</published></entry><entry><id>/blog/archives/✍用笔或键盘，发现更好的自己/</id><title>✍用笔或键盘，发现更好的自己</title><updated>2020-07-23T12:33:01.399874+00:00</updated><content>&lt;p&gt;最近，我其实有很多焦虑、困扰和烦躁。当我们没有选择某一种方式将它们赶出我们的脑袋时，它们就会在脑子里嗡嗡作响、干扰我们的生活。写下来，不必怀有任何被语文老师评判的担忧和恐惧——&lt;strong&gt;文字是与自己的沟通，无论是平常发的朋友圈，还是一篇简单的日记，都是我们与自己的对话，平常、温暖、愉悦。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;和自己的写作可以很随意地信笔拈来，也可以让我们的文字跟随某个主题的脚步。下面提供了一百条与自己沟通的主题&lt;sup id="fn_ref_1"&gt;&lt;a href="#fn_1"&gt;1&lt;/a&gt;&lt;/sup&gt;，你可以从里面挑选你最想写的一个主题，也可以使用&lt;a href="https://tool.520101.com/calculator/suijishu/"&gt;随机数生成器&lt;/a&gt;随机选择一条。&lt;/p&gt;
 &lt;p&gt;警告⚠：只需要打开本子拿起笔，或者打开电脑、手机里的写作软件，开始写，不需要考虑能写多少字，也不需要考虑文笔是否优美，只需把你想的全部写下来，也许奇迹就会发生… …&lt;/p&gt;
 &lt;h2&gt;📦写作魔法盒&lt;/h2&gt;
@@ -218,7 +216,7 @@
 &lt;hr&gt;
 &lt;ol&gt;&lt;/ol&gt;
 &lt;/div&gt;
-&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;1 &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/blog/archives/✍用笔或键盘，发现更好的自己/" rel="alternate"/><published>2020-07-16T10:02:01+08:06</published></entry><entry><id>/blog/archives/🔘虚无主义/</id><title>🔘虚无主义</title><updated>2020-07-23T11:33:25.895369+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;对待生命你不妨大胆冒险一点, 因为好歹你要失去它。
+&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;1 &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</content><link href="/blog/archives/✍用笔或键盘，发现更好的自己/" rel="alternate"/><published>2020-07-16T10:02:01+08:06</published></entry><entry><id>/blog/archives/🔘虚无主义/</id><title>🔘虚无主义</title><updated>2020-07-23T12:33:01.399843+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;对待生命你不妨大胆冒险一点, 因为好歹你要失去它。
 ——尼采&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;🚦谈话&lt;/h2&gt;
@@ -235,7 +233,7 @@
 &lt;p&gt;我不知道，可能其实连抱有这种理想的我自己，也无法做到100%的不虚无主义。我们活在现实之中，受到现实的制约，绝大多数人受到狭窄的阅读面和短浅见识的限制，更加无法走出这个笼子。但是··· ···&lt;/p&gt;
 &lt;p&gt;这个世界或许不会再好，但是我们可以降低预期，远离媒体，多感受自然，多与人交谈，多阅读书籍。慢慢地，这个世界会变得不一样——&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;至少，在我们眼里开始有了变化。&lt;/strong&gt;&lt;/p&gt;
-</content><link href="/blog/archives/🔘虚无主义/" rel="alternate"/><published>2020-07-16T21:44:07+08:06</published></entry><entry><id>/blog/archives/🔮夜晚焦虑症/</id><title>🔮夜晚焦虑症</title><updated>2020-07-23T11:33:25.895339+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;人们在晚上讲的故事，终归都要陷入淡淡的哀愁的情绪。朦胧的夜色降落到这些故事上面，给它们蒙上层层轻纱，寓于夜色之中的全部悲哀的书，才给我们以充分的享受。
+</content><link href="/blog/archives/🔘虚无主义/" rel="alternate"/><published>2020-07-16T21:44:07+08:06</published></entry><entry><id>/blog/archives/🔮夜晚焦虑症/</id><title>🔮夜晚焦虑症</title><updated>2020-07-23T12:33:01.399812+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;人们在晚上讲的故事，终归都要陷入淡淡的哀愁的情绪。朦胧的夜色降落到这些故事上面，给它们蒙上层层轻纱，寓于夜色之中的全部悲哀的书，才给我们以充分的享受。
 ——茨威格&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;🌃NIGHT&lt;/h2&gt;
@@ -255,7 +253,7 @@
 急着赚钱，急着出名，急着成功，急着幸福。当每个人都这么着急的时候，我们就失去了参照物，不知道那些慢下来的日子是怎么样的。就像我们现在对于手机和电脑太过熟悉和依赖，早就不记得那些一整天、一整年都不需要看电子设备的年代了。
 想法？偶尔把那些让你感到焦虑和着急的东西扔到一边去，手机、电脑、互联网、电子邮件··· ···试着感受没有这些东西的世界，或许那个世界才是真实的世界。
 你说呢？&lt;/p&gt;
-</content><link href="/blog/archives/🔮夜晚焦虑症/" rel="alternate"/><published>2020-07-18T21:29:00+08:06</published></entry><entry><id>/blog/archives/🐓论自慰与自由/</id><title>🐓论自慰与自由</title><updated>2020-07-23T11:33:25.895310+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;早上早起做个爱，锻炼身体还补钙。中午抽空搞一搞，增加感情实在好。晚上睡前叫叫床，明天体力无比强。半夜起来打一炮，增强免疫不感冒！
+</content><link href="/blog/archives/🔮夜晚焦虑症/" rel="alternate"/><published>2020-07-18T21:29:00+08:06</published></entry><entry><id>/blog/archives/🐓论自慰与自由/</id><title>🐓论自慰与自由</title><updated>2020-07-23T12:33:01.399779+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;早上早起做个爱，锻炼身体还补钙。中午抽空搞一搞，增加感情实在好。晚上睡前叫叫床，明天体力无比强。半夜起来打一炮，增强免疫不感冒！
 ——佚名&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;我是一个性欲和探索欲都极强的人。&lt;/strong&gt;&lt;/p&gt;
@@ -272,7 +270,7 @@
 &lt;p&gt;太爽了。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;这是在什么都做不了的青春期，唯一能做的事情。这种随意的、狂野的、性感的自由，就像是鲍汁凤爪之于饥饿的人，具有不可抵抗的魅力。&lt;/strong&gt;&lt;/p&gt;
-</content><link href="/blog/archives/🐓论自慰与自由/" rel="alternate"/><published>2020-07-21T20:22:33+08:06</published></entry><entry><id>/blog/archives/😑形式主义的遮羞布/</id><title>😑形式主义的遮羞布</title><updated>2020-07-23T11:33:25.895279+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;一步实际运动比一打纲领更重要。
+</content><link href="/blog/archives/🐓论自慰与自由/" rel="alternate"/><published>2020-07-21T20:22:33+08:06</published></entry><entry><id>/blog/archives/😑形式主义的遮羞布/</id><title>😑形式主义的遮羞布</title><updated>2020-07-23T12:33:01.399745+00:00</updated><content>&lt;blockquote&gt;&lt;p&gt;一步实际运动比一打纲领更重要。
 ——马克思&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;不知道从什么时候开始，我沉迷于「先形式，后实质」的逻辑顺序无法自拔。&lt;/strong&gt;&lt;/p&gt;
@@ -285,11 +283,11 @@
 &lt;hr&gt;
 &lt;p&gt;有件我一直不愿意面对的事情，当我在知道自己某件事做得不好的时候，我就会突然觉察到一种必须做出什么改变的义务感。如果我不真的做出点什么，这种义务感就会转变成愧疚感、自责感、自卑感等各种让我感慨万千感人至深感激涕零的感，然后继续把这件事情做得不好。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;假如，我是说假如，我在一开始，就不去思考这件事情到底做得好不好、怎么做才更好，我是不是就不会被那个莫名其妙的义务感所鞭挞，这是不是一件好事呢？&lt;/strong&gt;&lt;/p&gt;
-</content><link href="/blog/archives/😑形式主义的遮羞布/" rel="alternate"/><published>2020-07-21T22:52:05+08:06</published></entry><entry><id>/blog/archives/📅2020年中回忆录/</id><title>📅2020年中回忆录</title><updated>2020-07-23T11:33:25.895244+00:00</updated><content>&lt;p&gt;狭义相对论最普世的例子，就是时间流逝给人的不同感受。&lt;/p&gt;
+</content><link href="/blog/archives/😑形式主义的遮羞布/" rel="alternate"/><published>2020-07-21T22:52:05+08:06</published></entry><entry><id>/blog/archives/📅2020年中回忆录/</id><title>📅2020年中回忆录</title><updated>2020-07-23T12:33:01.399706+00:00</updated><content>&lt;p&gt;狭义相对论最普世的例子，就是时间流逝给人的不同感受。&lt;/p&gt;
 &lt;p&gt;和讨厌的人、无聊的人在一起，做讨厌的事、无聊的事，没有目标地学习，没有期待地生活，时间就像被人吐到地上的那颗口香糖一样，又黏腻，又甩不掉，又令人作呕。&lt;/p&gt;
 &lt;p&gt;和喜欢的人在一起，做喜欢的事，怀有目标地学习，充满期待地生活，时间就像暴雨后又经历暴晒的水滴，才酣畅淋漓地滋润万物不久，就被迫在猛烈的日光中蒸发殆尽，消失得无影无踪。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;不过，信息时代有一个弊端，就是人类会把「给予自己强烈快感的事」和「自己喜欢的事」混淆，以致于沉浸在前者而无法自拔。打游戏、看电视剧往往属于前者，绘画、写作、运动等往往属于后者。快感这回事，跟多巴胺密切相关，已经有无数学者醉心研究这个让人感到快乐的化学物质，这里就按下不表了。&lt;/p&gt;
 &lt;p&gt;喜欢这回事，就复杂得多了。在喜欢这回事上，「因人而异」是最政治正确的话语。&lt;/p&gt;
-</content><link href="/blog/archives/📅2020年中回忆录/" rel="alternate"/><published>2020-07-22T09:41:23+08:06</published></entry><entry><id>/blog/archives/三权分立与自律/</id><title>三权分立与自律</title><updated>2020-07-23T11:33:25.895182+00:00</updated><content>&lt;p&gt;三权分立是一个很有意思的发明。&lt;/p&gt;
+</content><link href="/blog/archives/📅2020年中回忆录/" rel="alternate"/><published>2020-07-22T09:41:23+08:06</published></entry><entry><id>/blog/archives/三权分立与自律/</id><title>三权分立与自律</title><updated>2020-07-23T12:33:01.399641+00:00</updated><content>&lt;p&gt;三权分立是一个很有意思的发明。&lt;/p&gt;
 </content><link href="/blog/archives/三权分立与自律/" rel="alternate"/><published>2020-07-23T10:06:44+08:06</published></entry></feed>
