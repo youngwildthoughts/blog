@@ -9,72 +9,57 @@ build_dir = "../dist/"
 index_page_size = 10
 archives_page_size = 20
 template = {
-    "name": "Galileo",
-    "type": "local",
-    "path": "../Galileo"
+    "name": "Prism",
+    "type": "git",
+    "url": "https://github.com/Reedo0910/Maverick-Theme-Prism.git",
+    "branch": "deploy"
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "youngwildthought/blog@gh-pages"
+    "repo": "youngwildthoughts/blog@gh-pages"
 }
 
 # 站点设置
 site_name = "少年奇思录"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2020-07-23T10:51+08:00"
-author = "卓彦"
+author = "xiezy thomas"
 email = "xiezy.thomas@foxmail.com"
 author_homepage = "https://www.imalan.cn"
 description = "旅程本身即是奖赏!"
-key_words = ['卓彦', '熊猫', 'Galileo', 'blog']
+key_words = ['interesting', 'blog']
 language = 'zh-CN'
 external_links = [
     {
         "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
+        "url": "https://youngwildthoughts.github.io/",
+        "brief": "来点正经的"
     },
     {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
+        "name": "🕺",
+        "url": "https://space.bilibili.com/404796475",
+        "brief": "聊点八卦的"
     }
 ]
 nav = [
     {
-        "name": "首页",
+        "name": "主页",
         "url": "${site_prefix}",
         "target": "_self"
     },
     {
-        "name": "归档",
+        "name": "合集",
         "url": "${site_prefix}archives/",
         "target": "_self"
     },
     {
-        "name": "关于",
+        "name": "找我",
         "url": "${site_prefix}about/",
         "target": "_self"
     }
 ]
 
-social_links = [
-    {
-        "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
-        "icon": "gi gi-twitter"
-    },
-    {
-        "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
-        "icon": "gi gi-github"
-    },
-    {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
-    }
-]
+
 
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
