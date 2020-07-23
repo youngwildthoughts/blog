@@ -3,7 +3,7 @@ layout: page
 title: 关于
 slug: about
 date: 2017/06/28 17:26:00
-status: publish
+status: hidden
 author: AlanDecode
 categories: 
   - Maverick
@@ -14,9 +14,23 @@ tags:
 
 这里是我的个人博客，通过 GitHub 管理与构建。
 
+## 🏠 关于本站
 
-## Contact
+这是我的[主站](https://youngwildthoughts.github.io/)的一个隐藏站点，藏有我的各种狂野心思，都是些难以言说、不可告人的胡思乱想，既然你找到了这里，那就勉为其难地给你看看吧！
 
-Email: hi#imalan.cn (replace # with @)
+---
 
-Telegram：[AlanDecode](https://t.me/alandecode)
+## 👨‍💻 我是谁
+
+我是男生，生于一年四季如夏的广东，就读于国立樱花大学（你猜是哪一间？）学生。此刻正坐在窗前，敲打着键盘，向你介绍我自己。
+喜欢读书和交朋友——没错，说的就是你呀，我的朋友！
+
+---
+
+
+## 📬 找我聊天/商业合作
+
+**如果需要联系我，或者想找我聊天，欢迎发送信息到下列邮箱噢！当然啦，戳页面最下方的“评论”也可以哦~**
+无论评论还是邮箱，都有强提醒功能，只要成功发送，我就立刻能收到，堪比微信聊天！
+我看到之后会尽快回复你哒！
+`xiezy.thomas@foxmail.com`
