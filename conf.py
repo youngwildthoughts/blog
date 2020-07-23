@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/"
+site_prefix = "/blog/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "youngwildthought/youngwildthought.github.io@gh-pages"
+    "repo": "youngwildthought/blog@gh-pages"
 }
 
 # 站点设置
