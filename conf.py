@@ -15,18 +15,18 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "youngwildthought.github.io/Blog@gh-pages"
+    "repo": "youngwildthought.github.io/blog@gh-pages"
 }
 
 # 站点设置
 site_name = "少年奇思录"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2020-7-18T16:51+08:00"
 author = "卓彦"
 email = "xiezy.thomas@foxmail.com"
 author_homepage = "https://www.imalan.cn"
 description = "旅程本身即是奖赏!"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['卓彦', '熊猫', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
     {
