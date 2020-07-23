@@ -5,15 +5,64 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
 
 <url>
-    <loc>/blog/about/</loc>
-    <lastmod>2017-06-28</lastmod>
+    <loc>/blog/archives/三权分立与自律/</loc>
+    <lastmod>2020-07-23</lastmod>
     <changefreq>always</changefreq>
-    <priority>0.8</priority>
+    <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/blog/archives/typography/</loc>
-    <lastmod>2019-12-18</lastmod>
+    <loc>/blog/archives/📅2020年中回忆录/</loc>
+    <lastmod>2020-07-22</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/blog/archives/😑形式主义的遮羞布/</loc>
+    <lastmod>2020-07-21</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/blog/archives/🐓论自慰与自由/</loc>
+    <lastmod>2020-07-21</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/blog/archives/🔮夜晚焦虑症/</loc>
+    <lastmod>2020-07-18</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/blog/archives/🔘虚无主义/</loc>
+    <lastmod>2020-07-16</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/blog/archives/✍用笔或键盘，发现更好的自己/</loc>
+    <lastmod>2020-07-16</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/blog/archives/📃我不想列计划/</loc>
+    <lastmod>2020-07-15</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/blog/archives/📚为你准备的一份书单/</loc>
+    <lastmod>2020-06-18</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
