@@ -21,7 +21,7 @@ enable_jsdelivr = {
 # 站点设置
 site_name = "少年奇思录"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2020-7-18T16:51+08:00"
+site_build_date = "2020-07-23T10:51+08:00"
 author = "卓彦"
 email = "xiezy.thomas@foxmail.com"
 author_homepage = "https://www.imalan.cn"
