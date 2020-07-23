@@ -5,15 +5,8 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
 
 <url>
-    <loc>/blog/archives/三权分立与自律/</loc>
+    <loc>/blog/archives/Separation-of-powers-and-self-control/</loc>
     <lastmod>2020-07-23</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/blog/archives/📅2020年中回忆录/</loc>
-    <lastmod>2020-07-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
