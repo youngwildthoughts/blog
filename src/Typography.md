@@ -15,6 +15,37 @@ excerpt: 这是一篇示例文章，在这里你可以看到常用页面元素�
 
 [notice]这是一篇示例文章，在这里你可以看到常用页面元素的显示效果，同时也是 Markdown 语法的参考文章。保留或者删除本文，开始自己的创作吧！[/notice]
 
+
+
+### 这是黄色的Galileo主题
+
+```
+    "name": "Galileo",
+    "type": "local",
+    "path": "../Galileo"
+```
+
+### 这是超级简约的Prim主题
+
+```
+    "name": "Prism",
+    "type": "git",
+    "url": "https://github.com/Reedo0910/Maverick-Theme-Prism.git",
+    "branch": "deploy"
+```
+
+### 这是合法的图片引用格式
+
+```
+![幽灵公主剧照](./image/Mononoke_Hime.jpg)
+```
+
+---
+
+==以下是原文==
+
+
+
 ## L2 Heading
 
 ### L3 Heading
