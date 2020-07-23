@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "youngwildthought.github.io/Blog-With-GitHub-Boilerplate@gu-pages"
+    "repo": "youngwildthought.github.io/Blog-With-GitHub-Boilerplate@gh-pages"
 }
 
 # 站点设置
