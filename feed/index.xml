@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>少年狂思录</title><link>/blog/</link><description>旅程本身即是奖赏!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/youngwildthoughts/blog@gh-pages/logo.png</url><title>少年狂思录</title><link>/blog/</link></image><language>zh-CN</language><lastBuildDate>Thu, 23 Jul 2020 09:50:17 +0806</lastBuildDate><pubDate>Thu, 23 Jul 2020 09:50:17 +0806</pubDate><item><title>我的第一篇文章</title><link>/blog/archives/my-first-awesome-post/</link><description>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！&lt;/p&gt;
-&lt;p&gt;&lt;figure  style="flex: 92.88888888888889" &gt;&lt;img width="836" height="450" src="https://cdn.jsdelivr.net/gh/youngwildthoughts/blog@gh-pages/archives/assets/e0affbc80ccb2d596c87b520e37e7071.jpg" alt="幽灵公主剧照"/&gt;&lt;/figure&gt;&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>少年狂思录</title><link>/blog/</link><description>旅程本身即是奖赏!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/youngwildthoughts/blog@gh-pages/logo.png</url><title>少年狂思录</title><link>/blog/</link></image><language>zh-CN</language><lastBuildDate>Thu, 23 Jul 2020 11:33:25 +0806</lastBuildDate><pubDate>Thu, 23 Jul 2020 11:33:25 +0806</pubDate><item><title>我的第一篇文章</title><link>/blog/archives/my-first-awesome-post/</link><description>&lt;p&gt;这是我的第一篇文章。文章使用 GitHub 管理，并通过 GitHub Actions 自动构建与发布！&lt;/p&gt;
+&lt;p&gt;&lt;figure style="flex: 92.88888888888889" &gt;&lt;img width="836" height="450" src="https://cdn.jsdelivr.net/gh/youngwildthoughts/blog@gh-pages/archives/assets/e0affbc80ccb2d596c87b520e37e7071.jpg" /&gt;&lt;figcaption&gt;幽灵公主剧照&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
 </description><author>xiezy.thomas@foxmail.com (卓彦)</author><guid isPermaLink="true">/blog/archives/my-first-awesome-post/</guid><pubDate>Tue, 17 Dec 2019 20:34:00 +0806</pubDate></item><item><title>📚为你准备的一份书单</title><link>/blog/archives/📚为你准备的一份书单/</link><description>&lt;blockquote&gt;&lt;p&gt;大学的现状是一个明显的错误：两百个人阅读同一本书。
 两百个人，应该读两百本书。
 ——约翰·凯奇，自学成才的作家和作曲家&lt;/p&gt;
@@ -214,7 +214,11 @@
 &lt;li&gt;如果可以随便去一个地方定居，你希望是哪里？&lt;/li&gt;
 &lt;li&gt;那些惹你不开心的事，你自己有责任吗？找一件出来分析一下。&lt;/li&gt;
 &lt;/ol&gt;
-&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;《写作疗愈》，刘主编 &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description><author>xiezy.thomas@foxmail.com</author><guid isPermaLink="true">/blog/archives/✍用笔或键盘，发现更好的自己/</guid><pubDate>Thu, 16 Jul 2020 10:02:01 +0806</pubDate></item><item><title>🔘虚无主义</title><link>/blog/archives/🔘虚无主义/</link><description>&lt;blockquote&gt;&lt;p&gt;对待生命你不妨大胆冒险一点, 因为好歹你要失去它。
+&lt;div class="footnotes"&gt;
+&lt;hr&gt;
+&lt;ol&gt;&lt;/ol&gt;
+&lt;/div&gt;
+&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;1 &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description><author>xiezy.thomas@foxmail.com</author><guid isPermaLink="true">/blog/archives/✍用笔或键盘，发现更好的自己/</guid><pubDate>Thu, 16 Jul 2020 10:02:01 +0806</pubDate></item><item><title>🔘虚无主义</title><link>/blog/archives/🔘虚无主义/</link><description>&lt;blockquote&gt;&lt;p&gt;对待生命你不妨大胆冒险一点, 因为好歹你要失去它。
 ——尼采&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;🚦谈话&lt;/h2&gt;
