@@ -6,12 +6,13 @@
 site_prefix = "/blog/"
 source_dir = "../src/"
 build_dir = "../dist/"
-index_page_size = 10
-archives_page_size = 20
+index_page_size = 5
+archives_page_size = 30
 template = {
-    "name": "Galileo",
-    "type": "local",
-    "path": "../Galileo"
+    "name": "Prism",
+    "type": "git",
+    "url": "https://github.com/Reedo0910/Maverick-Theme-Prism.git",
+    "branch": "deploy"
 }
 enable_jsdelivr = {
     "enabled": True,
