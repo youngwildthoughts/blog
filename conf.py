@@ -20,7 +20,7 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "少年奇思录"
+site_name = "少年狂思录"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2020-07-23T10:51+08:00"
 author = "xiezy thomas"
@@ -31,7 +31,7 @@ key_words = ['interesting', 'blog']
 language = 'zh-CN'
 external_links = [
     {
-        "name": "Maverick",
+        "name": "📚",
         "url": "https://youngwildthoughts.github.io/",
         "brief": "来点正经的"
     },
