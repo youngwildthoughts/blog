@@ -1,6 +1,7 @@
 ---
 title: '😑形式主义的遮羞布'
 date: 2020-07-21 22:52:05
+slug: superficial
 tags: [少年的碎碎念]
 published: true
 hideInList: false

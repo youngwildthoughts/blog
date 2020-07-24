@@ -1,6 +1,7 @@
 ---
 title: '🔘虚无主义'
 date: 2020-07-16 21:44:07
+slug: nihilism
 tags: [少年的碎碎念]
 published: true
 hideInList: false

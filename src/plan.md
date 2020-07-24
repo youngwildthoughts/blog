@@ -1,6 +1,7 @@
 ---
 title: '📃我不想列计划'
 date: 2020-07-15 15:03:39
+slag: noplanplease
 tags: [少年的碎碎念]
 published: true
 hideInList: false
