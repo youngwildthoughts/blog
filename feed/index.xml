@@ -1,91 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>少年狂思录</title><link>/blog/</link><description>旅程本身即是奖赏!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/youngwildthoughts/blog@gh-pages/logo.png</url><title>少年狂思录</title><link>/blog/</link></image><language>zh-CN</language><lastBuildDate>Thu, 23 Jul 2020 14:41:49 +0806</lastBuildDate><pubDate>Thu, 23 Jul 2020 14:41:49 +0806</pubDate><item><title>📚为你准备的一份书单</title><link>/blog/archives/📚为你准备的一份书单/</link><description>&lt;blockquote&gt;&lt;p&gt;大学的现状是一个明显的错误：两百个人阅读同一本书。
-两百个人，应该读两百本书。
-——约翰·凯奇，自学成才的作家和作曲家&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🕶前言&lt;/h2&gt;
-&lt;p&gt;我重新开始广泛、有趣、实用的阅读，是在2020年的疫情期间，四个多月的时间在家里读了将近30本书，平均下来大约每4-5天读完一本书。当然，阅读其实更应该求精，而非求多。但是在最开始，视野和认知都很局限的情况下，贪多也不算是坏事。&lt;/p&gt;
-&lt;p&gt;就这样，我慢慢地通过阅读，了解和认识到了以前完全没有想到过的知识，看待自己、看待世界的态度逐渐发生了巨大的改变。我很庆幸和感恩，我有机会能接触到这些足以改变人生的书籍和它们背后的作家们。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;不过，对于你来说，更重要的是，我逐渐在阅读的过程中总结出了一份书单——一份分门别类、有针对性的书单，一份像是“打怪升级”一样的书单，一份能够真正帮助你成长的书单&lt;/strong&gt;。如果你心里对这个世界、对自己、对未来、对人生有迷茫、有不解，别犹豫了，阅读、思考、总结、运用，是最有效的方法。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;下面的书单，你可以任选一个感兴趣的主题，从第一本开始读起。记住：没有任何必要强迫自己读不感兴趣的书籍，但也别放弃任何能让自己成长的机会&lt;/strong&gt;。对啦，点击书名前的星星★徽标可直达书籍的豆瓣详情页哦。&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2&gt;📚书单&lt;/h2&gt;
-&lt;h3&gt;👩‍💻A 学习、技巧与方法&lt;/h3&gt;
-&lt;blockquote&gt;&lt;p&gt;学得好的前提，是学会学习&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/34326931/"&gt;★&lt;/a&gt;《掌控习惯》by詹姆斯·克利尔&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/22994632/"&gt;★&lt;/a&gt;《成功，动机与目标》by海蒂•格兰特•霍尔沃森&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/10786473/"&gt;★&lt;/a&gt;《自控力》by凯利·麦格尼格尔&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/1013208/"&gt;★&lt;/a&gt;《如何阅读一本书》by莫提默·J·艾德勒 / 查尔斯·范多伦&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/26895988/"&gt;★&lt;/a&gt;《学习之道》by芭芭拉·奥克利&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/25854698/"&gt;★&lt;/a&gt;《微创新》by 德鲁·博迪 / 雅各布·戈登堡&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;🍜B 人生、心理与哲学&lt;/h3&gt;
-&lt;blockquote&gt;&lt;p&gt;了解自己内心深处&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/30199434/"&gt;★&lt;/a&gt;《原生家庭：如何修补自己的性格缺陷》by苏珊·福沃德&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/1775691/"&gt;★&lt;/a&gt;《少有人走的路1》by斯科特·派克&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/26369699/"&gt;★&lt;/a&gt;《被讨厌的勇气》by岸见一郎 / 古贺史健&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/1786387/"&gt;★&lt;/a&gt;《影响力》by罗伯特·西奥迪尼&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;💴C 会计、理财与投资&lt;/h3&gt;
-&lt;blockquote&gt;&lt;p&gt;想赚钱，就得懂得赚钱的逻辑&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/1033778/"&gt;★&lt;/a&gt;《富爸爸，穷爸爸》by罗伯特・T・清崎&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/3576486/"&gt;★&lt;/a&gt;《小狗钱钱》by博多·舍费尔&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/10434287/"&gt;★&lt;/a&gt;《搞懂金融的第一本书》by文晞 / 路瑞锁&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/26163553/"&gt;★&lt;/a&gt;《投资中最简单的事》by邱国鹭&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/1728725/"&gt;★&lt;/a&gt;《股市真规则》by帕特·多尔西&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;🌌D 认知、思维与成长&lt;/h3&gt;
-&lt;blockquote&gt;&lt;p&gt;带你看看与众不同的认知和观念&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/10828002/"&gt;★&lt;/a&gt;《游戏改变世界》by简·麦戈尼格尔&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;🎓E 科普、历史与传记&lt;/h3&gt;
-&lt;blockquote&gt;&lt;p&gt;拓展视野的最佳方式不是旅游，是阅读&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/1027191/"&gt;★&lt;/a&gt;《历史深处的忧虑》by林达&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/25985021/"&gt;★&lt;/a&gt;《人类简史》by尤瓦尔·赫拉利&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/26617241/"&gt;★&lt;/a&gt;《渡过：抑郁症治愈笔记》by张进&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/4154013/"&gt;★&lt;/a&gt;《血疫：埃博拉的故事》by理查德·普雷斯顿&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/1467022/"&gt;★&lt;/a&gt;《上帝掷骰子吗》by曹天元&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/1062193/"&gt;★&lt;/a&gt;《娱乐至死》by尼尔·波兹曼&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/1041482/"&gt;★&lt;/a&gt;《万历十五年》by黄仁宇&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;🙋F 沟通、处世与社会&lt;/h3&gt;
-&lt;blockquote&gt;&lt;p&gt;机智地与人相处，会更快乐&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/30327827/"&gt;★&lt;/a&gt;《好好说话2》by马薇薇 / 黄执中 / 周玄毅 / 邱晨 / 胡渐彪&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/3533221/"&gt;★&lt;/a&gt;《非暴力沟通》by马歇尔·卢森堡&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/34460345/"&gt;★&lt;/a&gt;《李银河说爱情》by李银河&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;h3&gt;🛫G 小说、诗词与文学&lt;/h3&gt;
-&lt;blockquote&gt;&lt;p&gt;不要抗拒小说带给你的影响力&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/2567698/"&gt;★&lt;/a&gt;《三体》by刘慈欣&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/6781808/"&gt;★&lt;/a&gt;《杀死一只知更鸟》by哈珀·李&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://book.douban.com/subject/1029111/"&gt;★&lt;/a&gt;《哭泣的骆驼》by三毛&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;hr&gt;
-&lt;h2&gt;😉尾声&lt;/h2&gt;
-&lt;p&gt;现代人不爱看书，一半是因为互联网时代爆炸式的娱乐干扰，难以短暂地静下心来看看文字；另一半是因为义务教育阶段的“迫害”，被各种条条框框限制住的教科书（尤其是语文教科书）和艰巨的作业，让学生们对阅读和写作失去了好感。&lt;/p&gt;
-&lt;p&gt;“读书”这个词很特别，它在汉语里有两个意思：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;阅读一本书&lt;/li&gt;
-&lt;li&gt;上学&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;你发现了吗？在“读书”这个词语的双重意思下，我们很有可能把对学校的厌恶（如果你也不太喜欢学校的话）连带着转移到了阅读本身。
-书：“我多冤哪！”&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;嘿嘿，所以呀，别辜负了最适合阅读和成长的这明媚时光！&lt;/strong&gt;&lt;/p&gt;
-</description><author>xiezy.thomas@foxmail.com</author><guid isPermaLink="true">/blog/archives/📚为你准备的一份书单/</guid><pubDate>Thu, 18 Jun 2020 16:23:02 +0806</pubDate></item><item><title>📃我不想列计划</title><link>/blog/archives/📃我不想列计划/</link><description>&lt;blockquote&gt;&lt;p&gt;他们看透了世界之平庸，但无力超越这平庸。他们无力成为“我”，又不屑于成为“他”。他们感到痛苦，但是真的，连这痛苦都很平庸。——刘瑜，政治学博士，剑桥大学讲师&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>少年狂思录</title><link>/blog/</link><description>旅程本身即是奖赏!</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/youngwildthoughts/blog@gh-pages/logo.png</url><title>少年狂思录</title><link>/blog/</link></image><language>zh-CN</language><lastBuildDate>Fri, 24 Jul 2020 13:28:31 +0806</lastBuildDate><pubDate>Fri, 24 Jul 2020 13:28:31 +0806</pubDate><item><title>📃我不想列计划</title><link>/blog/archives/📃我不想列计划/</link><description>&lt;blockquote&gt;&lt;p&gt;他们看透了世界之平庸，但无力超越这平庸。他们无力成为“我”，又不屑于成为“他”。他们感到痛苦，但是真的，连这痛苦都很平庸。——刘瑜，政治学博士，剑桥大学讲师&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;🎶写计划&lt;/h2&gt;
 &lt;p&gt;对我来说，写计划是最痛苦的事情。&lt;/p&gt;
@@ -106,117 +20,7 @@
 &lt;hr&gt;
 &lt;ol&gt;&lt;/ol&gt;
 &lt;/div&gt;
-</description><author>xiezy.thomas@foxmail.com</author><guid isPermaLink="true">/blog/archives/📃我不想列计划/</guid><pubDate>Wed, 15 Jul 2020 15:03:39 +0806</pubDate></item><item><title>✍用笔或键盘，发现更好的自己</title><link>/blog/archives/✍用笔或键盘，发现更好的自己/</link><description>&lt;p&gt;最近，我其实有很多焦虑、困扰和烦躁。当我们没有选择某一种方式将它们赶出我们的脑袋时，它们就会在脑子里嗡嗡作响、干扰我们的生活。写下来，不必怀有任何被语文老师评判的担忧和恐惧——&lt;strong&gt;文字是与自己的沟通，无论是平常发的朋友圈，还是一篇简单的日记，都是我们与自己的对话，平常、温暖、愉悦。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;和自己的写作可以很随意地信笔拈来，也可以让我们的文字跟随某个主题的脚步。下面提供了一百条与自己沟通的主题&lt;sup id="fn_ref_1"&gt;&lt;a href="#fn_1"&gt;1&lt;/a&gt;&lt;/sup&gt;，你可以从里面挑选你最想写的一个主题，也可以使用&lt;a href="https://tool.520101.com/calculator/suijishu/"&gt;随机数生成器&lt;/a&gt;随机选择一条。&lt;/p&gt;
-&lt;p&gt;警告⚠：只需要打开本子拿起笔，或者打开电脑、手机里的写作软件，开始写，不需要考虑能写多少字，也不需要考虑文笔是否优美，只需把你想的全部写下来，也许奇迹就会发生… …&lt;/p&gt;
-&lt;h2&gt;📦写作魔法盒&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;写写你的好朋友，最好是那个很久不联系，停留在你记忆深处的朋友。&lt;/li&gt;
-&lt;li&gt;写下小时候的二三事。&lt;/li&gt;
-&lt;li&gt;列举你这辈子最开心的件事，越具体越好。&lt;/li&gt;
-&lt;li&gt;记一次最开心的旅行。&lt;/li&gt;
-&lt;li&gt;说说你最近刚看完的一本书，介绍一下这本书中令你印象深刻的内容。&lt;/li&gt;
-&lt;li&gt;你看过的最好的一部电影是什么？&lt;/li&gt;
-&lt;li&gt;说说这个月你最想吐槽的一件事。&lt;/li&gt;
-&lt;li&gt;谁伤害你最深？说说这个故事，看看你能否宽恕他（她）。&lt;/li&gt;
-&lt;li&gt;写一封信给你的父母，只管写，不用想着寄出去。&lt;/li&gt;
-&lt;li&gt;请以“我的生活有什么问题吗”为题写一篇文章。&lt;/li&gt;
-&lt;li&gt;请写下你儿时的理想，现在这个理想实现了吗？&lt;/li&gt;
-&lt;li&gt;如果让你介绍你的家乡，你会怎么写？请以“我的家乡”为题写一篇文章。&lt;/li&gt;
-&lt;li&gt;请以“那一次我是真的怕了”为题写一篇文章。&lt;/li&gt;
-&lt;li&gt;重新给你看过的一部电视剧编一套情节，让里面有你自己的影子。&lt;/li&gt;
-&lt;li&gt;请以“你真的想清楚了吗”为题写一篇文章。&lt;/li&gt;
-&lt;li&gt;你的理想生活是什么样的？请把它写下来，尽可能描述得详细一点。&lt;/li&gt;
-&lt;li&gt;假如你明天就离开这个世界，接下来的小时你会做什么？&lt;/li&gt;
-&lt;li&gt;你人生最成功的一次经历是什么？把它写下来。&lt;/li&gt;
-&lt;li&gt;虚构一个童话故事，可以天马行空地编造。&lt;/li&gt;
-&lt;li&gt;描述一段梦境，想一想，你为什么会做这样的梦。&lt;/li&gt;
-&lt;li&gt;如果可以选择，你这辈子最想做的职业是什么？详细说说这个职业。&lt;/li&gt;
-&lt;li&gt;假如今天你跟最喜欢的明星结婚了，想象一下你们的生活会是什么样的？&lt;/li&gt;
-&lt;li&gt;假如现在有一个时光机器，让时间倒流，你希望用它做什么？&lt;/li&gt;
-&lt;li&gt;假设现在你来到了10或20年之后，遇到了10或20年后的自己，你想对自己说些什么？&lt;/li&gt;
-&lt;li&gt;写一件让你思考良久的小事。&lt;/li&gt;
-&lt;li&gt;仔细观察你身边的一个动物，如一只蚂蚁，一条狗等，什么都可以，写写它。&lt;/li&gt;
-&lt;li&gt;把眼睛闭上分钟，把你听到的声音全部写下来。&lt;/li&gt;
-&lt;li&gt;长这么大，最让你感动的一幕是什么？把它写下来。&lt;/li&gt;
-&lt;li&gt;闭上眼睛，安静地坐下来，5分钟后睁开眼，把这5分钟内脑海里闪出的念头全都记录下来。&lt;/li&gt;
-&lt;li&gt;你吃过最好吃的一顿饭是什么？能把它写下来吗？&lt;/li&gt;
-&lt;li&gt;有什么故事一直埋在你的心底，你从来没有跟人说过。把它写下来，放在一个只有你能找到的地方。&lt;/li&gt;
-&lt;li&gt;今年，你有哪些愿望想要达成？把最想实现的个愿望写出来。&lt;/li&gt;
-&lt;li&gt;给未来的自己写一封信。&lt;/li&gt;
-&lt;li&gt;给年前的自己写一封信。&lt;/li&gt;
-&lt;li&gt;给自己的孩子或者未来的孩子写一封信，让他（她）岁的时候再打开看。&lt;/li&gt;
-&lt;li&gt;给自己的另一半或者将来的另一半写一封信。&lt;/li&gt;
-&lt;li&gt;写一份自我介绍，包括自己的性格、兴趣、爱好和特长。&lt;/li&gt;
-&lt;li&gt;记录自己的一次历险，以及这次历险对你的影响。&lt;/li&gt;
-&lt;li&gt;生命中有没有某个瞬间让你突然改变？想一想，把它写下来。&lt;/li&gt;
-&lt;li&gt;记一件你最后悔的事。&lt;/li&gt;
-&lt;li&gt;假设你现在在火车上，对面坐着一个漂亮的异性，去构思一段故事，想想接下来会发生什么。&lt;/li&gt;
-&lt;li&gt;如果你现在突然有天的假期，你会怎样度过？规划一下。&lt;/li&gt;
-&lt;li&gt;如果你现在中了1000万元的大奖，你会怎么花这笔钱？&lt;/li&gt;
-&lt;li&gt;如果你被星探发现了，星探请你去拍戏，设想一下接下来的故事。&lt;/li&gt;
-&lt;li&gt;自己给自己讲个笑话，并把它们写下来。&lt;/li&gt;
-&lt;li&gt;把你最近抱怨的事写下来，看看有没有解决办法。&lt;/li&gt;
-&lt;li&gt;请以“你到底想要什么”为题写一篇文章。&lt;/li&gt;
-&lt;li&gt;假设你现在在美国读大学，你要跟国外的同学分享一个你成长过程中的故事，请把它写下来。&lt;/li&gt;
-&lt;li&gt;如果老天可以帮你实现个愿望，你希望是哪个愿望？&lt;/li&gt;
-&lt;li&gt;写一篇文章，把你之前的人生概括一下。&lt;/li&gt;
-&lt;li&gt;写一篇日记，记录一下今天。&lt;/li&gt;
-&lt;li&gt;如果现在你可以移民去任何一个地方，请想象并描述一下你移民后的生活。&lt;/li&gt;
-&lt;li&gt;如果现在让你来策划未来的你的婚礼（或者重新举办婚礼），你会怎么安排？&lt;/li&gt;
-&lt;li&gt;你一定遇到过很多让你讨厌的人，挑一个最讨厌的，试着在他（她）身上找到个优点。&lt;/li&gt;
-&lt;li&gt;写个自己的老朋友，以及他们对你的影响。&lt;/li&gt;
-&lt;li&gt;过去的一年，你做过最明智的事是什么？为什么？&lt;/li&gt;
-&lt;li&gt;你最喜欢的一首歌或者一首曲子是什么？它让你想到了什么？&lt;/li&gt;
-&lt;li&gt;如果这是你写下的最后一篇文章，你会写些什么？&lt;/li&gt;
-&lt;li&gt;过去的经历中，最囧的一件事是什么？&lt;/li&gt;
-&lt;li&gt;如果你现在可以领养一只宠物，你希望是什么？为什么？&lt;/li&gt;
-&lt;li&gt;盯着镜子中的自己看一分钟，你想到了什么？想说什么？&lt;/li&gt;
-&lt;li&gt;对你影响最深的一本书是什么？&lt;/li&gt;
-&lt;li&gt;有没有哪一次旅行，让你终生难忘？&lt;/li&gt;
-&lt;li&gt;想一下现在你最应该做的件事，并把它们写下来。&lt;/li&gt;
-&lt;li&gt;想一想自己的钱都花在了什么地方，自己给自己做个财务分析。&lt;/li&gt;
-&lt;li&gt;如果你穿越回到了唐代，你会经历什么请脑洞大开地写一篇文章。&lt;/li&gt;
-&lt;li&gt;如果现在你是一个人生活，你要怎样规划你的生活？&lt;/li&gt;
-&lt;li&gt;假如现在你要被安排在某个无人区待一年，你打算做什么？&lt;/li&gt;
-&lt;li&gt;假如现在有一个机会送你去哈佛大学进修一年，想象一下你在哈佛的生活。&lt;/li&gt;
-&lt;li&gt;今天早晨起来，你发现自己跟你最喜欢的明星互换了身体和身份，想象一下醒来后的你（也就是你最喜欢的那个明星）会遇到什么事。&lt;/li&gt;
-&lt;li&gt;假设你的父母说你现在不务正业，你准备怎么跟他们解释你现在做的事？&lt;/li&gt;
-&lt;li&gt;你希望你的孩子是个什么样的人，要具备什么样的品质？&lt;/li&gt;
-&lt;li&gt;有没有哪次比赛或考试给你留下了深刻的印象？为什么？&lt;/li&gt;
-&lt;li&gt;你在公众场合最丢脸的一次经历是什么？把它写下来。你现在可以宽恕自己了吗？&lt;/li&gt;
-&lt;li&gt;如果现在你站在自己的对面，你会跟自己说什么？&lt;/li&gt;
-&lt;li&gt;如果现在让你写一本书，你最想写什么内容？说说你的构思。&lt;/li&gt;
-&lt;li&gt;你认为的最理想的生活状态是什么样的？请描述一下。&lt;/li&gt;
-&lt;li&gt;有没有哪个名人的婚姻生活是你非常羡慕的？写写他们的婚姻故事。&lt;/li&gt;
-&lt;li&gt;记录一次你发脾气的全过程，描写得越仔细越好。&lt;/li&gt;
-&lt;li&gt;假设你是地球上剩下的最后一个人，这时候，有敲门声…&lt;/li&gt;
-&lt;li&gt;你有梦想吗？请描述它。&lt;/li&gt;
-&lt;li&gt;如果让你做一天心理医生，设想一下你会听到的故事。&lt;/li&gt;
-&lt;li&gt;如果要总结个人生经验，你会如何总结？&lt;/li&gt;
-&lt;li&gt;说说你每天的时间安排，你喜欢这样的安排吗？&lt;/li&gt;
-&lt;li&gt;你的微信朋友圈都是什么样的信息，你每次看完有何感受？&lt;/li&gt;
-&lt;li&gt;你经常做的梦是什么样子的？想一想这个梦试图告诉你什么？&lt;/li&gt;
-&lt;li&gt;如果现在有个外星人来到你家，你会怎么跟他介绍地球和你周围的一切？&lt;/li&gt;
-&lt;li&gt;如果人生可以重来一次，你会怎么过？&lt;/li&gt;
-&lt;li&gt;年后，你和高中的同学聚会，想象一下那时候的场面。&lt;/li&gt;
-&lt;li&gt;假如你被施了魔法，变成了一只猫，想象一下你将要面对的世界。&lt;/li&gt;
-&lt;li&gt;请以“生命中最难忘的时刻”为题写一篇文章。&lt;/li&gt;
-&lt;li&gt;请以“没有过不去的坎”为题写一篇文章。&lt;/li&gt;
-&lt;li&gt;请以“选择”为题写一篇文章，想想这些年哪些选择对你有所启发？&lt;/li&gt;
-&lt;li&gt;你怎么理解疗愈？你知道哪些有疗愈效果的方法？&lt;/li&gt;
-&lt;li&gt;现在什么能让你的心情一秒钟内变好？好吃的，很多钱，还是一个超长假期？&lt;/li&gt;
-&lt;li&gt;哪件事当时很纠结，现在想想很可笑？把它写下来。&lt;/li&gt;
-&lt;li&gt;小时候你有什么梦想，现在实现了吗？还是现在觉得当时的梦想完全不切实际？&lt;/li&gt;
-&lt;li&gt;每年的哪个日子对你特别重要？为什么？&lt;/li&gt;
-&lt;li&gt;如果可以随便去一个地方定居，你希望是哪里？&lt;/li&gt;
-&lt;li&gt;那些惹你不开心的事，你自己有责任吗？找一件出来分析一下。&lt;/li&gt;
-&lt;/ol&gt;
-&lt;div class="footnotes"&gt;
-&lt;hr&gt;
-&lt;ol&gt;&lt;/ol&gt;
-&lt;/div&gt;
-&lt;hr&gt;&lt;div class="footnotes"&gt;&lt;ol&gt;&lt;li id="fn_1"&gt;1 &lt;a no-style href="#fn_ref_1"&gt;↩&lt;/a&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;</description><author>xiezy.thomas@foxmail.com</author><guid isPermaLink="true">/blog/archives/✍用笔或键盘，发现更好的自己/</guid><pubDate>Thu, 16 Jul 2020 10:02:01 +0806</pubDate></item><item><title>🔘虚无主义</title><link>/blog/archives/🔘虚无主义/</link><description>&lt;blockquote&gt;&lt;p&gt;对待生命你不妨大胆冒险一点, 因为好歹你要失去它。
+</description><author>xiezy.thomas@foxmail.com</author><guid isPermaLink="true">/blog/archives/📃我不想列计划/</guid><pubDate>Wed, 15 Jul 2020 15:03:39 +0806</pubDate></item><item><title>🔘虚无主义</title><link>/blog/archives/nihilism/</link><description>&lt;blockquote&gt;&lt;p&gt;对待生命你不妨大胆冒险一点, 因为好歹你要失去它。
 ——尼采&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;🚦谈话&lt;/h2&gt;
@@ -233,27 +37,7 @@
 &lt;p&gt;我不知道，可能其实连抱有这种理想的我自己，也无法做到100%的不虚无主义。我们活在现实之中，受到现实的制约，绝大多数人受到狭窄的阅读面和短浅见识的限制，更加无法走出这个笼子。但是··· ···&lt;/p&gt;
 &lt;p&gt;这个世界或许不会再好，但是我们可以降低预期，远离媒体，多感受自然，多与人交谈，多阅读书籍。慢慢地，这个世界会变得不一样——&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;至少，在我们眼里开始有了变化。&lt;/strong&gt;&lt;/p&gt;
-</description><author>xiezy.thomas@foxmail.com</author><guid isPermaLink="true">/blog/archives/🔘虚无主义/</guid><pubDate>Thu, 16 Jul 2020 21:44:07 +0806</pubDate></item><item><title>🔮夜晚焦虑症</title><link>/blog/archives/🔮夜晚焦虑症/</link><description>&lt;blockquote&gt;&lt;p&gt;人们在晚上讲的故事，终归都要陷入淡淡的哀愁的情绪。朦胧的夜色降落到这些故事上面，给它们蒙上层层轻纱，寓于夜色之中的全部悲哀的书，才给我们以充分的享受。
-——茨威格&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2&gt;🌃NIGHT&lt;/h2&gt;
-&lt;p&gt;夜幕降临，星垂平野。
-天空从白天的辉煌沉坠成夜色的寂寥，人间的烟火依旧一刻不肯停歇地向着宇宙的方向努力散发着魅力。
-我发现自己所有的自我猜忌、自我怀疑、不自信、焦虑和恐慌都发生在晚上。
-不用太晚，七、八点的光景足矣。书房里，书桌前，灯无论打开多少，都没有阳光照进屋子里的那种意味。我看着堆满了乱七八糟物品的桌面，看着电脑里似乎没有什么进展的任务，摸摸刚刚吃饱的肚皮，觉得一天过得太快了，最重要的是，我想不出什么理由来说服自己，我的一生和一天有什么太大的差别。&lt;/p&gt;
-&lt;h2&gt;🚶ALONE&lt;/h2&gt;
-&lt;p&gt;窗外的路灯向来不够明亮，连二楼高度的树都照不到。白天绿晃晃的枝叶到了晚上就玩起了捉迷藏。关上房门，除了我和那些嗜血的蚊子和偶尔闯入我视野的小蜘蛛之外，视线范围内没有别的生物了。
-人是需要人际交往和沟通的生物。在家里，有我妈和我聊天，不过大部分时间我妈在上班，我在书房里做自己的事情。大部分聊天发生在洗菜做饭、午饭晚饭、睡前小夜谈，以及我妈每次刚回到家我都会来“迎接”她的时候。不过，我总觉得也差不多了，少即是多。
-会想硕硕呢，不过我依旧觉得无论科技如何发达，千言万语还是当面说最好，打字、视频聊天都少了点意思，那种手挽手或者躺在怀里聊天的肌肤亲密之感。
-和自己聊天吗？写作就算一种自我聊天的方式。想起小时候的我自己，真的很喜欢看书和写点充满了文艺范儿的文字，我还记得小学五六年级的时候自己写了一首非主流、伤痛青春的诗，还特意打字放到了QQ空间，特意选了纯黑的背景，配一段哀痛的音乐。那时候觉得自己就是如假包换的作家，我就是自己文学王国的王——正襟危坐，统领八方。
-只不过现在，写作渐渐地被我戴上了有色眼镜来看，一种功利的、耗时的、必须得有成果产出的工作。我和写作之间的关系在变得淡漠··· ····嘿，你说，我们不会分手吧？
-不过，寂寞是说不上的。就像英文里的那两个很有意思的近义词，我可能是alone的，但并不lonely。&lt;/p&gt;
-&lt;h2&gt;💡SLOW&lt;/h2&gt;
-&lt;p&gt;大家都很着急。
-急着赚钱，急着出名，急着成功，急着幸福。当每个人都这么着急的时候，我们就失去了参照物，不知道那些慢下来的日子是怎么样的。就像我们现在对于手机和电脑太过熟悉和依赖，早就不记得那些一整天、一整年都不需要看电子设备的年代了。
-想法？偶尔把那些让你感到焦虑和着急的东西扔到一边去，手机、电脑、互联网、电子邮件··· ···试着感受没有这些东西的世界，或许那个世界才是真实的世界。
-你说呢？&lt;/p&gt;
-</description><author>xiezy.thomas@foxmail.com</author><guid isPermaLink="true">/blog/archives/🔮夜晚焦虑症/</guid><pubDate>Sat, 18 Jul 2020 21:29:00 +0806</pubDate></item><item><title>🐓论自慰与自由</title><link>/blog/archives/🐓论自慰与自由/</link><description>&lt;blockquote&gt;&lt;p&gt;早上早起做个爱，锻炼身体还补钙。中午抽空搞一搞，增加感情实在好。晚上睡前叫叫床，明天体力无比强。半夜起来打一炮，增强免疫不感冒！
+</description><author>xiezy.thomas@foxmail.com</author><guid isPermaLink="true">/blog/archives/nihilism/</guid><pubDate>Thu, 16 Jul 2020 21:44:07 +0806</pubDate></item><item><title>🐓论自慰与自由</title><link>/blog/archives/masturbation-and-freedom/</link><description>&lt;blockquote&gt;&lt;p&gt;早上早起做个爱，锻炼身体还补钙。中午抽空搞一搞，增加感情实在好。晚上睡前叫叫床，明天体力无比强。半夜起来打一炮，增强免疫不感冒！
 ——佚名&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;我是一个性欲和探索欲都极强的人。&lt;/strong&gt;&lt;/p&gt;
@@ -270,7 +54,7 @@
 &lt;p&gt;太爽了。&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;这是在什么都做不了的青春期，唯一能做的事情。这种随意的、狂野的、性感的自由，就像是鲍汁凤爪之于饥饿的人，具有不可抵抗的魅力。&lt;/strong&gt;&lt;/p&gt;
-</description><author>xiezy.thomas@foxmail.com</author><guid isPermaLink="true">/blog/archives/🐓论自慰与自由/</guid><pubDate>Tue, 21 Jul 2020 20:22:33 +0806</pubDate></item><item><title>😑形式主义的遮羞布</title><link>/blog/archives/😑形式主义的遮羞布/</link><description>&lt;blockquote&gt;&lt;p&gt;一步实际运动比一打纲领更重要。
+</description><author>xiezy.thomas@foxmail.com (xiezythomas)</author><guid isPermaLink="true">/blog/archives/masturbation-and-freedom/</guid><pubDate>Tue, 21 Jul 2020 20:22:00 +0806</pubDate></item><item><title>😑形式主义的遮羞布</title><link>/blog/archives/superficial/</link><description>&lt;blockquote&gt;&lt;p&gt;一步实际运动比一打纲领更重要。
 ——马克思&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;不知道从什么时候开始，我沉迷于「先形式，后实质」的逻辑顺序无法自拔。&lt;/strong&gt;&lt;/p&gt;
@@ -283,7 +67,7 @@
 &lt;hr&gt;
 &lt;p&gt;有件我一直不愿意面对的事情，当我在知道自己某件事做得不好的时候，我就会突然觉察到一种必须做出什么改变的义务感。如果我不真的做出点什么，这种义务感就会转变成愧疚感、自责感、自卑感等各种让我感慨万千感人至深感激涕零的感，然后继续把这件事情做得不好。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;假如，我是说假如，我在一开始，就不去思考这件事情到底做得好不好、怎么做才更好，我是不是就不会被那个莫名其妙的义务感所鞭挞，这是不是一件好事呢？&lt;/strong&gt;&lt;/p&gt;
-</description><author>xiezy.thomas@foxmail.com</author><guid isPermaLink="true">/blog/archives/😑形式主义的遮羞布/</guid><pubDate>Tue, 21 Jul 2020 22:52:05 +0806</pubDate></item><item><title>🔺三权分立与更好的自己</title><link>/blog/archives/Separation-of-powers-and-self-control/</link><description>&lt;blockquote&gt;&lt;p&gt;改变心态只需一分钟，而这一分钟却能改变一整天。 ——赫伯特·斯宾塞&lt;/p&gt;
+</description><author>xiezy.thomas@foxmail.com</author><guid isPermaLink="true">/blog/archives/superficial/</guid><pubDate>Tue, 21 Jul 2020 22:52:05 +0806</pubDate></item><item><title>🔺三权分立与更好的自己</title><link>/blog/archives/Separation-of-powers-and-self-control/</link><description>&lt;blockquote&gt;&lt;p&gt;改变心态只需一分钟，而这一分钟却能改变一整天。 ——赫伯特·斯宾塞&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2&gt;🏛三权分立&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;三权分立是一个很有意思的天才发明。&lt;/strong&gt;&lt;/p&gt;
@@ -376,4 +160,24 @@
 &lt;h2&gt;✍写在最后&lt;/h2&gt;
 &lt;p&gt;其实，三权分立的6个点都有值得说道的地方。&lt;a href="#🛠实际操作"&gt;这个表格&lt;/a&gt;里的很多东西，留给我慢慢填坑，之后会在此更新链接。&lt;/p&gt;
 &lt;p&gt;愿我们都能善待自己。&lt;/p&gt;
-</description><author>xiezy.thomas@foxmail.com (xiezythomas)</author><guid isPermaLink="true">/blog/archives/Separation-of-powers-and-self-control/</guid><pubDate>Thu, 23 Jul 2020 20:50:00 +0806</pubDate></item></channel></rss>
+</description><author>xiezy.thomas@foxmail.com (xiezythomas)</author><guid isPermaLink="true">/blog/archives/Separation-of-powers-and-self-control/</guid><pubDate>Thu, 23 Jul 2020 20:50:00 +0806</pubDate></item><item><title>🌃夜晚焦虑症</title><link>/blog/archives/nightphobia/</link><description>&lt;blockquote&gt;&lt;p&gt;人们在晚上讲的故事，终归都要陷入淡淡的哀愁的情绪。朦胧的夜色降落到这些故事上面，给它们蒙上层层轻纱，寓于夜色之中的全部悲哀的书，才给我们以充分的享受。
+——茨威格&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2&gt;🌙NIGHT&lt;/h2&gt;
+&lt;p&gt;夜幕降临，星垂平野。
+天空从白天的辉煌沉坠成夜色的寂寥，人间的烟火依旧一刻不肯停歇地向着宇宙的方向努力散发着魅力。
+我发现自己所有的自我猜忌、自我怀疑、不自信、焦虑和恐慌都发生在晚上。
+不用太晚，七、八点的光景足矣。书房里，书桌前，灯无论打开多少，都没有阳光照进屋子里的那种意味。我看着堆满了乱七八糟物品的桌面，看着电脑里似乎没有什么进展的任务，摸摸刚刚吃饱的肚皮，觉得一天过得太快了，最重要的是，我想不出什么理由来说服自己，我的一生和一天有什么太大的差别。&lt;/p&gt;
+&lt;h2&gt;🚶ALONE&lt;/h2&gt;
+&lt;p&gt;窗外的路灯向来不够明亮，连二楼高度的树都照不到。白天绿晃晃的枝叶到了晚上就玩起了捉迷藏。关上房门，除了我和那些嗜血的蚊子和偶尔闯入我视野的小蜘蛛之外，视线范围内没有别的生物了。
+人是需要人际交往和沟通的生物。在家里，有我妈和我聊天，不过大部分时间我妈在上班，我在书房里做自己的事情。大部分聊天发生在洗菜做饭、午饭晚饭、睡前小夜谈，以及我妈每次刚回到家我都会来“迎接”她的时候。不过，我总觉得也差不多了，少即是多。
+会想硕硕呢，不过我依旧觉得无论科技如何发达，千言万语还是当面说最好，打字、视频聊天都少了点意思，那种手挽手或者躺在怀里聊天的肌肤亲密之感。
+和自己聊天吗？写作就算一种自我聊天的方式。想起小时候的我自己，真的很喜欢看书和写点充满了文艺范儿的文字，我还记得小学五六年级的时候自己写了一首非主流、伤痛青春的诗，还特意打字放到了QQ空间，特意选了纯黑的背景，配一段哀痛的音乐。那时候觉得自己就是如假包换的作家，我就是自己文学王国的王——正襟危坐，统领八方。
+只不过现在，写作渐渐地被我戴上了有色眼镜来看，一种功利的、耗时的、必须得有成果产出的工作。我和写作之间的关系在变得淡漠··· ····嘿，你说，我们不会分手吧？
+不过，寂寞是说不上的。就像英文里的那两个很有意思的近义词，我可能是alone的，但并不lonely。&lt;/p&gt;
+&lt;h2&gt;💡SLOW&lt;/h2&gt;
+&lt;p&gt;大家都很着急。
+急着赚钱，急着出名，急着成功，急着幸福。当每个人都这么着急的时候，我们就失去了参照物，不知道那些慢下来的日子是怎么样的。就像我们现在对于手机和电脑太过熟悉和依赖，早就不记得那些一整天、一整年都不需要看电子设备的年代了。
+想法？偶尔把那些让你感到焦虑和着急的东西扔到一边去，手机、电脑、互联网、电子邮件··· ···试着感受没有这些东西的世界，或许那个世界才是真实的世界。
+你说呢？&lt;/p&gt;
+</description><author>xiezy.thomas@foxmail.com (xiezythomas)</author><guid isPermaLink="true">/blog/archives/nightphobia/</guid><pubDate>Fri, 24 Jul 2020 16:50:00 +0806</pubDate></item></channel></rss>

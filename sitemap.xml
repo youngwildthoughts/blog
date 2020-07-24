@@ -5,6 +5,13 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
 
 <url>
+    <loc>/blog/archives/nightphobia/</loc>
+    <lastmod>2020-07-24</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
     <loc>/blog/archives/Separation-of-powers-and-self-control/</loc>
     <lastmod>2020-07-23</lastmod>
     <changefreq>always</changefreq>
@@ -12,35 +19,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/blog/archives/😑形式主义的遮羞布/</loc>
+    <loc>/blog/archives/superficial/</loc>
     <lastmod>2020-07-21</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/blog/archives/🐓论自慰与自由/</loc>
+    <loc>/blog/archives/masturbation-and-freedom/</loc>
     <lastmod>2020-07-21</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/blog/archives/🔮夜晚焦虑症/</loc>
-    <lastmod>2020-07-18</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/blog/archives/🔘虚无主义/</loc>
-    <lastmod>2020-07-16</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/blog/archives/✍用笔或键盘，发现更好的自己/</loc>
+    <loc>/blog/archives/nihilism/</loc>
     <lastmod>2020-07-16</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -49,13 +42,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
     <loc>/blog/archives/📃我不想列计划/</loc>
     <lastmod>2020-07-15</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-</url>
-
-<url>
-    <loc>/blog/archives/📚为你准备的一份书单/</loc>
-    <lastmod>2020-06-18</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
