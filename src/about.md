@@ -6,10 +6,9 @@ date: 2017/06/28 17:26:00
 status: hidden
 author: AlanDecode
 categories: 
-  - Maverick
-  - Dev
+
 tags: 
-  - theme
+
 ---
 
 这里是我的个人博客，通过 GitHub 管理与构建。
